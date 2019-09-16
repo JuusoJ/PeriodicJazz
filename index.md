@@ -1,4 +1,4 @@
-![Image](r'images/Sleeping in the forest.jpg') 
+![Image](images/Sleepingintheforest.jpg') 
 ![Image](images/PeriodicJazz.jpg)
 ## Welcome to GitHub Pages
 
