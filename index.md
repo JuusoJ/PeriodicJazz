@@ -1,4 +1,4 @@
-![Image](images/Sleeping in the forest.jpg)
+![Image](images/Sleeping-in-the-forest.jpg)
 ![Image](images/PeriodicJazz.jpg)
 ## Welcome to GitHub Pages
 
